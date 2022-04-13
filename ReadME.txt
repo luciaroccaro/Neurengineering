@@ -1,3 +1,5 @@
+The file "Neuroengineering__tesina.pdf" contains the report of the developed project.
+
 The code we implemented for our project is organised as follows:
 - A. 	Lambert-Beer law and signal filtering
 - B_NM. 	task segmentation and feature extraction (for non-mediated task epochs)
